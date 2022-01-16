@@ -63,7 +63,7 @@ Pruebas para obtener datos de la API con CURL
 
 Lista con los vídeos tutoriales de como usar el cliente (habilitar los subtítulos)
 
-  https://www.youtube.com/watch?v=SpvZtwqHxcg&list=PLsHTh4h2CZ0-l58FOMO6dUcHD5p1ypZcX
+  https://www.youtube.com/playlist?list=PLsHTh4h2CZ0-XYv_X8Gnbg7dkw3_fkw8p
 
 
 
