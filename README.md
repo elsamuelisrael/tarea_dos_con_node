@@ -6,11 +6,11 @@ tarea #2 para la materia Ingeniería y Desarrollo en la Web se uso nodejs, expre
 ### `MongoDB configuración`
 la configiracion de la DB esta en  `config/db.config.js`
 
-Para ejecutar el proyecto:
-
 ### `npm install`
 
 Esto instalara las dependencias `node_modules`
+
+Para ejecutar el proyecto:
 
 ### `node server.js` o `nodemon start` o `npm start`
 
